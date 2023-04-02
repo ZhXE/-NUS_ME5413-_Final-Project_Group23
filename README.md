@@ -143,7 +143,7 @@ Then, in the second terminal:
 
 ```bash
 # Load a map and launch AMCL localizer
-roslaunch me5413_world navigation.launch
+roslaunch me5413_world nav.launch
 ```
 
 ![rviz_navigation_image](src/me5413_world/media/rviz_navigation.png)
